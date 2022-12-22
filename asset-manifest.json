@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/markmysler/introduccion-a-react.git/static/css/main.b64f99b2.css",
+    "main.js": "/markmysler/introduccion-a-react.git/static/js/main.35f97d22.js",
+    "index.html": "/markmysler/introduccion-a-react.git/index.html",
+    "main.b64f99b2.css.map": "/markmysler/introduccion-a-react.git/static/css/main.b64f99b2.css.map",
+    "main.35f97d22.js.map": "/markmysler/introduccion-a-react.git/static/js/main.35f97d22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64f99b2.css",
+    "static/js/main.35f97d22.js"
+  ]
+}
