@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/markmysler/introduccion-a-react.git/static/css/main.835b11ac.css",
-    "main.js": "/markmysler/introduccion-a-react.git/static/js/main.3a688e79.js",
-    "index.html": "/markmysler/introduccion-a-react.git/index.html",
-    "static/media/delete.svg": "/markmysler/introduccion-a-react.git/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
-    "static/media/check.svg": "/markmysler/introduccion-a-react.git/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
-    "main.835b11ac.css.map": "/markmysler/introduccion-a-react.git/static/css/main.835b11ac.css.map",
-    "main.3a688e79.js.map": "/markmysler/introduccion-a-react.git/static/js/main.3a688e79.js.map"
+    "main.css": "/static/css/main.835b11ac.css",
+    "main.js": "/static/js/main.da420354.js",
+    "index.html": "/index.html",
+    "static/media/delete.svg": "/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.835b11ac.css.map": "/static/css/main.835b11ac.css.map",
+    "main.da420354.js.map": "/static/js/main.da420354.js.map"
   },
   "entrypoints": [
     "static/css/main.835b11ac.css",
-    "static/js/main.3a688e79.js"
+    "static/js/main.da420354.js"
   ]
 }
